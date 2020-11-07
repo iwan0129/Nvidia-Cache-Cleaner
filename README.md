@@ -21,7 +21,7 @@
   <h3 align="center">Nvidia Cache Cleaner</h3>
 
   <p align="center">
-    Clears the NVCache folder inside %LOCALAPPDATA%\NVIDIA Corporation\NV_Cache
+    Clears Nvidia Cache
     <br />
     <a href="https://github.com/iwan0129/Nvidia-Cache-Cleaner"><strong>Explore the docs »</strong></a>
     <br />
@@ -53,7 +53,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Clears the 
+Clears the NVCache folder inside %LOCALAPPDATA%\NVIDIA Corporation\NV_Cache
 
 ### Built With
 The project's Python version is 3.9 but you can build with lower version
