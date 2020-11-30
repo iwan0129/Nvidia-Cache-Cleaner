@@ -2,7 +2,7 @@
 ![repo-size]
 ![downloads-shield]
 ![followers]
-[![donate-shield]][donate-url]
+[![paypal-shield]][paypal-url]
 [![forks-shield]][forks-url]
 [![stars-shield]][stars-url]
 [![issues-shield]][issues-url]
@@ -122,6 +122,6 @@ uzunow0129@gmail.com
 [commit-activity]: https://img.shields.io/github/commit-activity/m/iwan0129/Nvidia-Cache-Cleaner.svg?style=for-the-badge
 [commit-url]: https://github.com/iwan0129/Nvidia-Cache-Cleaner/commits/master
 [followers]: https://img.shields.io/github/followers/iwan0129?style=for-the-badge
-[donate-shield]: https://img.shields.io/badge/DONATE--informational?style=for-the-badge
-[donate-url]: https://paypal.me/iwan0129?locale.x=en_US
+[paypal-url]: https://paypal.me/iwan0129?locale.x=en_US
+[paypal-donate]: https://img.shields.io/badge/donate-PayPal-104098.svg?style=for-the-badge&logo=PayPal
 [downloads-shield]: https://img.shields.io/github/downloads/iwan0129/Nvidia-Cache-Cleaner/total.svg?style=for-the-badge
