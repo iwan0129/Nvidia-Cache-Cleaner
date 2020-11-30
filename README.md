@@ -2,7 +2,7 @@
 ![repo-size]
 ![downloads-shield]
 ![followers]
-[![paypal-shield]][paypal-url]
+[![paypal-donate]][paypal-url]
 [![forks-shield]][forks-url]
 [![stars-shield]][stars-url]
 [![issues-shield]][issues-url]
