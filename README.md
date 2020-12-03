@@ -53,7 +53,7 @@
 
 ![Screenshot]
 
-Clears the NVCache folder inside %LOCALAPPDATA%\NVIDIA Corporation\NV_Cache
+Clears Nvidia Cache
 
 ### Built With
 The project's Python version is 3.9 but you can build with lower version
