@@ -51,7 +51,7 @@
 
 ## About The Project
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+![Screenshot]
 
 Clears the NVCache folder inside %LOCALAPPDATA%\NVIDIA Corporation\NV_Cache
 
@@ -125,3 +125,4 @@ uzunow0129@gmail.com
 [paypal-url]: https://paypal.me/iwan0129?locale.x=en_US
 [paypal-donate]: https://img.shields.io/badge/donate-PayPal-104098.svg?style=for-the-badge&logo=PayPal
 [downloads-shield]: https://img.shields.io/github/downloads/iwan0129/Nvidia-Cache-Cleaner/total.svg?style=for-the-badge
+[Screenshot]: Images/Screenshot.png
