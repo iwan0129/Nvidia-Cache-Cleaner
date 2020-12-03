@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>a86d4704-c6b5-4417-b9c1-8bb52256cc93</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Nvidia_Cache_Cleaner.py</StartupFile>
+    <StartupFile>Source.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Nvidia_Cache_Cleaner.py" />
+    <Compile Include="Source.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
