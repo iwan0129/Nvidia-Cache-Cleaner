@@ -56,7 +56,7 @@
 Clears Nvidia Cache
 
 ### Built With
-The project's Python version is 3.9 but you can build with lower version
+Python 3.7.8
 
 ## Getting Started
 
