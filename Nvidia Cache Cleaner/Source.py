@@ -15,8 +15,6 @@ def clear_path(dir):
                 print('{0}\n'.format(ex.args))
                 continue;
             pass;
-        pass;
-
         for folder in dirs:
             try:
                 shutil.rmtree(path.join(root, folder))
@@ -24,15 +22,12 @@ def clear_path(dir):
                 print('{0}\n'.format(ex.args))
                 continue;
             pass;
-        pass;
-    pass;
 pass;
                 
 for cache_path in cache_paths:
     if (path.exists(cache_path)):
         print('Clearing: {0}\n'.format(cache_path));
         clear_path(cache_path);
-    pass;
 pass;
         
 print('Done Clearing, You Can Close The Program Now.\n');
